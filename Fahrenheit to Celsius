@@ -8,5 +8,4 @@ Temperature = float(input("Enter Temperature in Fahrenheit"))
 Celsius  = (5/9)*(Temperature - 32)
 
 #Deriving the temperature
-print(Celsius)
 print("{0}'s Temperature is {1:2.1f} Degree Celsius".format(Location,Celsius))
