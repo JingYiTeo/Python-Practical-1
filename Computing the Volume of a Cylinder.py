@@ -10,7 +10,6 @@ Area = Radius * Radius * math.pi
 Volume = Area * Length
 
 #Printing Volume
-print(Volume)
 print("The Volume of Cylinder is {:.2f} Cubic metres".format(Volume))
 
 
